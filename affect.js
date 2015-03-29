@@ -5,6 +5,6 @@
  */
 $(document).ready(function(){
    $("#retreat").delay(1000).fadeIn('slow');
-   $("#rt_bdy").delay(1000).fadeIn('slow');
+   $("#rt_bdy").delay(100).fadeIn('slow');
      
 });
